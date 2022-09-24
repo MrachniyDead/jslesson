@@ -16,7 +16,7 @@ console.log(7%2);
 console.log(4*3 == '12');
 console.log(4*3 === 12);
 
-console.log(2 + 2 *2 != 8);  // != - не равен
+console.log(2 + 2 *2 != '6');  // != - не равен
 
 // && и
 // || или
